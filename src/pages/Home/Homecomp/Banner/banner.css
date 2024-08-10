@@ -1,0 +1,32 @@
+.banner1{
+    background: url('../../../../assets/bannerimg1.jpg');
+    background-size: cover;
+    height: 100vh;
+   
+}
+.banner2{
+    background: url('../../../../assets/bannerimg2.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+.bannertext{
+    font-size: 180px;
+}
+
+.banner2slide{
+    width: 520px;
+    
+}
+.card {
+    background-color: black;
+    color: white;
+    height: 400px;
+    width: 350px;
+    border-radius: 0px 140px 0px 0px;
+}
+.heading{
+    
+    border: 2px solid red;
+    width: 140px;
+
+}

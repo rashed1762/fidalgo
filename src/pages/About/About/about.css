@@ -1,0 +1,35 @@
+.banner{
+    background-image: url('../../../assets/aboutbanner.jpg');
+    height: 70vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.aboutimg{
+    height: 900px;
+    border-radius: 300px 0px 0px 0px;
+    
+    
+}
+.aboutimg2{
+    border-radius: 20px;
+}
+@media (min-width: 640px) {
+    .aboutimg{
+        height: 500px;
+    }
+}
+
+@media (min-width: 768px) {
+    .aboutimg{
+        height: 600px;
+    }
+}
+
+@media (min-width: 1536px) {
+    .aboutimg{
+        height: 900px;
+    border-radius: 300px 0px 0px 0px;
+    }
+}

@@ -1,0 +1,6 @@
+.aboutbanner2{
+    background-image: url('../../../assets/ABOUTBANNER2.jpg');
+    height: 700px;
+    background-size: cover;
+    margin-top: 70px;
+}
